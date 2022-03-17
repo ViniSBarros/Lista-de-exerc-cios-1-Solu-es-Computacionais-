@@ -1,8 +1,6 @@
-# Lista de exercicios 1
+# Listas de exercicios 
 
-Esta é uma lista de exercicíos resolvidos em java durante a segunda aula de soluções computacionais
-
-São um total de 17 exercícios, dividos entre as dificuldades: fácil, intermediario e difícil.
+Este é um repositório onde eu irei salvar as listas que serão feitas nas minhas aulas durante a faculdade.
 
 <hr>
 
